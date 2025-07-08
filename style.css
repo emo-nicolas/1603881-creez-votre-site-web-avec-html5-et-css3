@@ -38,4 +38,9 @@ li {
 .cta {
   background: linear-gradient(#8e86b5, #acaeed);
   color: white;
+  border-radius: 50px;
+}
+.bordure{
+  border-bottom: #8e86b5 1px solid;
+  border-right: #8e86b5 1px solid;
 }
