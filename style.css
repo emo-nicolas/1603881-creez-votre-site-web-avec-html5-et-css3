@@ -2,11 +2,13 @@ body {
   /* Ici on utilise le sélecteur body pour appliquer une police et une taille par défaut pour les éléments */
   font-family: 'Manrope', sans-serif;
   font-size: 1em;
+  background-color: #1F2039;
 }
 
 a {
-  color: black;
+  color:#242424;
   text-decoration: none;
+  
 }
 
 em {
@@ -22,4 +24,15 @@ h1 {
 
 p {
   font-size: 1.1em;
+}
+div{
+  background-color: white;
+}
+p, ul, h2{
+  color:#F9F8FF;
+}
+.lien{
+  background: linear-gradient(90deg, #8E86B5, #2ebf91);
+  color:white;
+  font-family:'Montserrat',sans-serif;
 }
